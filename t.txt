@@ -1,0 +1,15 @@
+PROGRAMME test
+VAR {
+    INTEGER i,j,a;
+FLOAT i; //déjà declaree
+INTEGER TAB[(-6)]; //taille invalide
+INTEGER V[5];
+INTEGER e,p,b,m,n;
+}
+begin
+a= (2*3)- 7/4+ 3*(2 + 5);
+
+
+
+
+END
